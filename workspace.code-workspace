@@ -1,7 +1,10 @@
 {
   "folders": [
     {
-      "path": "go-micro/front-end"
+      "path": "front-end"
+    },
+    {
+      "path": "broker-service"
     }
   ]
 }
